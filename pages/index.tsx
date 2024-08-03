@@ -14,7 +14,7 @@ const handleScriptLoad = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Fractal - Home</title>
+        <title>Fractal - Blog</title>
         <link
           href="https://cdn.jsdelivr.net/npm/daisyui@4.12.2/dist/full.min.css"
           rel="stylesheet"
@@ -68,11 +68,11 @@ const handleScriptLoad = () => {
 		<h3 className="text-3xl font-black m-2">First blog post: Hello Germany!/Hallo Deutschland!</h3> <small className="text-base font-bold m-2">posted by Mark on 8/3/24 at 3:32 pm CST</small>
         <p className="text-lg m-2">
 		German version:/Deutsche version:
-		
+		<br /><br />
 		Hallo, Mark hier bei Fractal. Ich habe gerade unsere Blog-Seite eingerichtet und dies ist unser erster Blog-Beitrag überhaupt! Sie fragen sich wahrscheinlich, warum dieser Beitrag auf Deutsch und nicht auf Englisch ist, da wir ein amerikanisch-kanadisches Team sind. Nun, ich habe heute meine Protokolle überprüft und festgestellt, dass Deutschland ein wichtiges Besucherland der Website war. Ich wollte mir nur die Zeit nehmen, Hallo zu sagen, und wir hoffen, dass Ihnen gefällt, woran wir arbeiten. 😀
-		
+		<br /><br />
 		English version:/Englische Version:
-		
+		<br /><br />
 		Hey, Mark at Fractal here. I just set up our blog page, and this is our first blog post ever! You&apos;re probably wondering why this post is in German and not English since we are an American-Canadian team. Well, I checked my logs today and found that Germany was a prominent visiting country of the site. I just wanted to take the time to say hello, and we hope you enjoy what we&apos;re working on. 😀
 		
 		</p>
